@@ -1,3 +1,8 @@
+'''
+@Description:   Simple Singly Linked List implementation in python
+@Author:        Albert Mundu
+'''
+
 class Node(object):
     def __init__(self,data=None,next_node=None):
         self.data=data
