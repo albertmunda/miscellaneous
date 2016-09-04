@@ -1,3 +1,8 @@
+'''
+@Description:   Finding Local Maxima and Local Minima using variable window size for given (x,y) coordinates of waveform
+@Author:        Albert Mundu, Anant Goel, Bhumil Sarvaiya 
+'''
+
 1. Take window size N
 2. Find the local Maxima(lmax) & Minima(lmin) in the window N
 3. Compare middle value M of the window N with the lmax & lmin
